@@ -38,7 +38,28 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-                {/* Add proficiencies here*/}
+              <strong>Browser Based Technologies: </strong><br />
+              HTML, CSS, JavaScript, jQuery, Responsive Design, Bootstrap, Progressive Web Applications, React.js
+            </li>
+            <br />
+            <li>
+              <strong>Server Side Development: </strong> <br />
+              Node.js, Express.js, User Authentication, MERN Stack
+            </li>
+            <br />
+            <li>
+              <strong>Databases: </strong> <br />
+              MySQL, MongoDB
+            </li>
+            <br />
+            <li>
+              <strong>API Design:</strong> <br />
+              API, REST, JSON, AJAX
+            </li>
+            <br />
+            <li>
+              <strong>Deployment: </strong> <br />
+              Heroku, Git, GitHub Pages
             </li>
           </ul>
         </div>
