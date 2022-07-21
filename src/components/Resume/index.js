@@ -23,9 +23,9 @@ function Resume() {
               />
             </a>
           </p>
-
+            {/*Add link in <a> tag below to download resume*/}
           <a
-            href=""  {/*Add link to download resume*/}
+            href="" 
             class="link"
           >
             Download Resume
