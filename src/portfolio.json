@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "J.A.T.E. Text Editor",
+        "image": "https://github.com/Gregm316/pwa-text-editor/raw/main/assets/images/J.A.T.E.png",
+        "github": "https://github.com/Gregm316/pwa-text-editor",
+        "deploy": "https://pwa-text-editor-gm.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "name": "The Daily Beliefs",
+        "image": "https://github.com/Gregm316/the-daily-beliefs/raw/main/public/css/images/home-page.png",
+        "github": "https://github.com/Gregm316/the-daily-beliefs",
+        "deploy": "https://the-daily-beliefs-jcd.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "name": "Adventure Adviser",
+        "image": "https://github.com/jcdoran33/Adventure-Adviser/blob/main/README-assets/New-York.png?raw=true",
+        "github": "https://github.com/jcdoran33/Adventure-Adviser",
+        "deploy": "https://jcdoran33.github.io/Adventure-Adviser/"
+    },
+    {
+        "id": 4,
+        "name": "Password Generator",
+        "image": "https://user-images.githubusercontent.com/104603148/169415566-f0d3b4d0-d7dd-462d-af56-a3e41fdfd0cc.png",
+        "github": "https://github.com/Gregm316/password-generator",
+        "deploy": "https://gregm316.github.io/password-generator/"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "https://github.com/Gregm316/note-taker/blob/main/public/assets/images/note-taker-landing-page.png?raw=true",
+        "github": "https://github.com/Gregm316/note-taker",
+        "deploy": "https://note-taker-gsm.herokuapp.com/"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/104603148/170516565-90ade6ec-41e4-4231-8ad3-95419f390b40.png",
+        "github": "https://github.com/Gregm316/work-day-scheduler",
+        "deploy": "https://gregm316.github.io/work-day-scheduler/"
+    }
+]
