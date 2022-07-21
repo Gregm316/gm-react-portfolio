@@ -11,7 +11,7 @@ function Resume() {
           <h2 className="top-title">Gregory Maher</h2>
           <ul>
             <li>
-            
+            {/* Add info here */}
             </li>
           </ul>
 
@@ -25,7 +25,7 @@ function Resume() {
           </p>
 
           <a
-            href=""
+            href=""  {/*Add link to download resume*/}
             class="link"
           >
             Download Resume
@@ -38,7 +38,7 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-
+                {/* Add proficiencies here*/}
             </li>
           </ul>
         </div>
