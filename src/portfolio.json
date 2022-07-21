@@ -40,5 +40,19 @@
         "image": "https://user-images.githubusercontent.com/104603148/170516565-90ade6ec-41e4-4231-8ad3-95419f390b40.png",
         "github": "https://github.com/Gregm316/work-day-scheduler",
         "deploy": "https://gregm316.github.io/work-day-scheduler/"
+    },
+    {
+        "id": 7,
+        "name": "Coding Quiz",
+        "image": "https://user-images.githubusercontent.com/104603148/171038930-6d06240a-2d42-4bd6-9eae-3f5f49a70826.png",
+        "github": "https://github.com/Gregm316/coding-quiz",
+        "deploy": "https://gregm316.github.io/coding-quiz/"
+    },
+    {
+        "id": 8,
+        "name": "Team Profile Generator",
+        "image": "https://github.com/Gregm316/team-profile-generator/raw/main/assets/images/team-profile.png",
+        "github": "https://github.com/Gregm316/team-profile-generator",
+        "deploy": "https://github.com/Gregm316/team-profile-generator"
     }
 ]
