@@ -34,7 +34,7 @@ http://Gregm316.github.io/gm-react-portfolio/
 
 ![Portfolio Contact](./assets/images/portfolio-contact.png)
 
-![Portfolio Resume](./assets/images/portfolio-resume-1.png)
+![Portfolio Resume](./assets/images/portfolio-resume.png)
 
 ## [Tests](#table-of-contents)
 
