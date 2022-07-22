@@ -24,7 +24,7 @@ This React.js application can be installed by running `npx create-react-app` fro
 To use this React.js application on your local machine, after installation, run `npm start` from the terminal.The application will be deployed in the browser using local host. 
 
 ### **Click on the following link to view the Deployed Site on GitHub Pages:**
-http://Gregm316.github.io/gm-react-portfolio
+http://Gregm316.github.io/gm-react-portfolio/
 
 ### **Screenshots of the React Portfolio Pages:**
 
