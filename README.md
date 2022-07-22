@@ -30,11 +30,11 @@ http://Gregm316.github.io/gm-react-portfolio/
 
 ![Portfolio About Me](./assets/images/portfolio-gif.gif)
 
-![Portfolio Projects](./assets/images/portfolio-projects.png)
+![Portfolio Projects](./assets/images/portfolio-projects-1.png)
 
 ![Portfolio Contact](./assets/images/portfolio-contact.png)
 
-![Portfolio Resume](./assets/images/portfolio-resume.png)
+![Portfolio Resume](./assets/images/portfolio-resume-1.png)
 
 ## [Tests](#table-of-contents)
 
