@@ -15,14 +15,16 @@ function Resume() {
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
                 alt="inkedIn"
               />
+              Connect on Linkedin
             </a>
           </p>
             {/*Add link in <a> tag below to download resume*/}
-          <a
-            href="" 
-            class="link"
-          >
-            Download Resume Coming Soon
+          <a href="">
+            <img 
+            src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png"
+            alt="download resume"
+            />
+            Resume Coming Soon
           </a>
         </div>
       </div>

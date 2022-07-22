@@ -114,7 +114,7 @@ img {
 
 form {
   width: 40%;
-  padding-bottom: 50px
+  padding-bottom: 50px;
 }
 
 input {
@@ -202,6 +202,7 @@ textarea {
   position: relative;
   width: 400px;
   box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+  transition: all .2s ease-in-out; 
 }
 
 .card .img-container {
@@ -211,6 +212,10 @@ textarea {
   border-radius: 10px;
   background-color: var(--white);
 }
+
+.card:hover { 
+  transform: scale(1.2); 
+  }
 
 .card .img-container img {
   width: 100%;
@@ -230,6 +235,10 @@ textarea {
 .card-title{
   margin-top: 10px;
   color: var(--eerie-black);
+}
+
+.instructions {
+  text-align: center;
 }
 
 .project-title {

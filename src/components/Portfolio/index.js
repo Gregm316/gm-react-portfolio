@@ -15,6 +15,9 @@ function Portfolio () {
             <h2 className="top-title">Portfolio</h2>
             <hr></hr>
           </div>
+          <div className="instructions">
+            <p>View Application Repo and Live Deployment by Clicking the Icons</p>
+          </div>
 
           <Wrapper id="card-data">
             {portfolio.map((project) => (

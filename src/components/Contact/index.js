@@ -63,7 +63,6 @@ return (
             <button data-testid='button' class="btn btn-outline-dark " type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
         </form>
-        {/* Consider adding email link next to form */}
     </section>
     );
 }
