@@ -19,12 +19,12 @@ function Resume() {
             </a>
           </p>
             {/*Add link in <a> tag below to download resume*/}
-          <a href="">
+          <a href="https://www.canva.com/design/DAFIeMGXlzo/258V9JMzCquZFzYyeUqG_g/view?utm_content=DAFIeMGXlzo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
             <img 
             src="https://img.icons8.com/ultraviolet/40/000000/open-resume.png"
             alt="download resume"
             />
-            Resume Coming Soon
+            View Resume
           </a>
         </div>
       </div>
